@@ -1,5 +1,5 @@
 ---
-Original post: [https://www.reddit.com/r/Python/comments/zc3mvf/what_is_your_favorite_most_underrated_3rd_party/](https://www.reddit.com/r/Python/comments/zc3mvf/what_is_your_favorite_most_underrated_3rd_party/)
+Original post: "https://www.reddit.com/r/Python/comments/zc3mvf/what_is_your_favorite_most_underrated_3rd_party"
 ---
 
 * 🟩 **[jsalsman](https://www.reddit.com/user/jsalsman)** ⬆️ 27 _(2022-12-04 13:09:02)_
